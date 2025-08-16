@@ -2,6 +2,8 @@
 
 A Snakemake pipeline for third-generation sequence assembly, designed to automate the processing and assembly of third-generation sequencing data through quality control, assembly, polishing, and post-processing.
 
+
+![替代文本](image/figure.png "Figure")
 ## Basic Information
 
 | Item        | Details                                                      |
