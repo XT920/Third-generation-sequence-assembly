@@ -11,7 +11,7 @@ A Snakemake pipeline for third-generation sequence assembly, designed to automat
 | Name        | Third generation sequence assembly                           |
 | Date        | 2023-04-24                                                   |
 | Description | Snakemake pipeline for automated assembly of third-generation sequencing data, including quality control, de novo assembly, multi-round polishing, and genome optimization. |
-| Author      | Jianmin Xie                                                  |
+| Author      | Tong Xu                                                  |
 
 ## Dependencies
 
